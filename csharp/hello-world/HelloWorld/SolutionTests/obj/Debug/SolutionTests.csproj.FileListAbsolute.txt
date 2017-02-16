@@ -1,0 +1,8 @@
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\SolutionTests\bin\Debug\SolutionTests.dll
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\SolutionTests\bin\Debug\SolutionTests.pdb
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\SolutionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\SolutionTests\bin\Debug\Solution.exe
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\SolutionTests\bin\Debug\Solution.pdb
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\SolutionTests\obj\Debug\SolutionTests.csprojResolveAssemblyReference.cache
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\SolutionTests\obj\Debug\SolutionTests.dll
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\SolutionTests\obj\Debug\SolutionTests.pdb

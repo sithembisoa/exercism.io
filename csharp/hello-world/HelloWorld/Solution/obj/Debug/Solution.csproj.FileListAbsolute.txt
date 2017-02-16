@@ -1,0 +1,5 @@
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\Solution\bin\Debug\Solution.exe.config
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\Solution\bin\Debug\Solution.exe
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\Solution\bin\Debug\Solution.pdb
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\Solution\obj\Debug\Solution.exe
+C:\Users\asithembiso\OneDrive - Shoprite Checkers (Pty) Limited\Documents\Visual Studio 2015\Projects\HelloWorld\Solution\obj\Debug\Solution.pdb
